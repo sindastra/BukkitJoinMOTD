@@ -1,3 +1,4 @@
 main: io.github.sindastra.BukkitJoinMOTD.Main
-version: 1.0
+version: 1.0.1
 name: SindastrasJoinMOTD
+api-version: 1.13
